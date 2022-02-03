@@ -5,6 +5,12 @@
 
 ## 강의
 ### 1. Natural Language Processing with Classification and Vector Spaces
+  - Logistic Regression
+  - Naive Bayes
+  - Vectors
+  - Naive Machine Translation and LSH
 ### 2. Natural Language Processing with Probabilistic Models
+  - Auto Correct
+  - POS(Parts-of-Speech Tagging)
 ### 3. Natural Language Processing with Sequence Models
 ### 4. Natural Language Processing with Attention Models
