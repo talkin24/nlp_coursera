@@ -12,5 +12,6 @@
 ### 2. Natural Language Processing with Probabilistic Models
   - Auto Correct
   - POS(Parts-of-Speech Tagging)
+  - 
 ### 3. Natural Language Processing with Sequence Models
 ### 4. Natural Language Processing with Attention Models
